@@ -24,6 +24,13 @@ If any one of these framework are missing the web page will not run and appear.
 ## Random function coding
 ![Random code](https://user-images.githubusercontent.com/96815546/195910429-0c7711b0-762d-43a7-af1d-a3822293f78a.png)
 
+## Home page
+![home page T](https://user-images.githubusercontent.com/96815546/195971998-923c5a10-2f73-4961-9f40-49597c7b0737.png)
+
+![home page M](https://user-images.githubusercontent.com/96815546/195972005-d6b39fc0-a222-4332-994a-0a96edc742e3.png)
+
+![home page L](https://user-images.githubusercontent.com/96815546/195972008-b97d98df-ebbf-4889-90ed-a501648be01b.png)
+
 ## Random page 
 ![random page](https://user-images.githubusercontent.com/96815546/195910559-0a22716d-d53a-43f3-9bc0-7a8b0092eb35.png)
 
